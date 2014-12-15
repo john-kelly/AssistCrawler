@@ -1,0 +1,7 @@
+/__init__.py
+/pipeline_backup.py
+/pipeline_backup2.py
+/*.pyc
+/spiders/*.pyc
+/spiders/__init__.py
+/settings.py
